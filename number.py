@@ -1,7 +1,1 @@
-print('My number: 89091442504')
-
-while a<5:
-
-print('наших пользователей', 20)
-
-print('Выберите пункт доставки')
+print("Hello world!")
